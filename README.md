@@ -47,11 +47,9 @@ step 9) Expose the app
 
 ![image](https://github.com/Dilipkumar-M/reddit-clone/assets/84618503/f88f9282-2de3-406b-89bd-7a70915f57c7)
 
+![image](https://github.com/Dilipkumar-M/reddit-clone/assets/84618503/3152d978-0c94-49fb-b7dc-d5b8f3f926b4)
 
-
-
-
-Test Ingress
+Step 10) Test Ingress
 
 ![image](https://github.com/Dilipkumar-M/reddit-clone/assets/84618503/d7bb481d-e6f0-40c3-a3b9-21c0ba78b623)
 
