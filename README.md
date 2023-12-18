@@ -4,7 +4,7 @@ Flow or the project
 
 ![image](https://github.com/Dilipkumar-M/reddit-clone/assets/84618503/487539d5-536c-4717-997e-1d8fb3bb64ed)
 
-Step 1) Clone of fork the repository from developer github
+Step 1) Clone or fork the repository from developer github
 
 ![image](https://github.com/Dilipkumar-M/reddit-clone/assets/84618503/c86dc129-7ede-459e-a942-bb73ff7c95b6)
 
